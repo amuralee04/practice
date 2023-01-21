@@ -1,2 +1,2 @@
-# Algorithm / Data Structure Practice
+# Compilation fo Different Practices
 
